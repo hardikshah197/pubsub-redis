@@ -1,2 +1,10 @@
-./node_modules
-./env
+# npm package
+node_modules
+
+# logs
+logs
+
+
+#env files
+.env
+
